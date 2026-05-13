@@ -29,7 +29,7 @@
 
 - 💬 Ask me about **Javascript Related Projects**
 
-- 📫 How to reach me **There's a link of my website in my profile.**
+- 📫 How to reach me? **There's a link of my website in my profile.**
 
 - ⚡ Fun fact **I think i have severe depression, and anxiety.**
 
