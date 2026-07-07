@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Exawill</h1>
+<h1 align="center">Hi 👋, I'm Rhyzs</h1>
 <h3 align="center">A Fullstack Developer just doing his hobby</h3>
+<h3 align="center">Also with severe ADHD problem.</h3>
 
 <br>
 
@@ -19,13 +20,10 @@
 <br>
 
 
-- 🔭 I’m currently working on [My Own Portfolio Website](https://github.com/exawill/My-Website-Portfolio)
 
 - 🌱 I’m currently learning **Typescript**
 
-- 🤝 I’m looking for help with **Fixing Bugs**
-
-- 👨‍💻 All of my projects are available at [My Website](https://mfrasyad.xyz/)
+- 🤝 I’m looking for help with my **severe ADHD** problem
 
 - 💬 Ask me about **Javascript Related Projects**
 
